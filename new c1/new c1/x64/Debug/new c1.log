@@ -1,0 +1,4 @@
+﻿  test2.c
+C:\Users\c405-09\source\repos\new c1\new c1\test2.c(48,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\c405-09\source\repos\new c1\new c1\test2.c(50,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  new c1.vcxproj -> C:\Users\c405-09\source\repos\new c1\x64\Debug\new c1.exe
