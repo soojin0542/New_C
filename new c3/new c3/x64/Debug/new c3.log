@@ -1,0 +1,5 @@
+﻿  test8.c
+C:\Users\c405-09\source\repos\new c3\new c3\test8.c(17,31): warning C4305: '=': 'unsigned __int64'에서 'float'(으)로 잘립니다.
+C:\Users\c405-09\source\repos\new c3\new c3\test8.c(18,31): warning C4305: '=': 'unsigned __int64'에서 'double'(으)로 잘립니다.
+C:\Users\c405-09\source\repos\new c3\new c3\test8.c(9,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  new c3.vcxproj -> C:\Users\c405-09\source\repos\new c3\x64\Debug\new c3.exe
