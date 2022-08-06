@@ -1,3 +1,0 @@
-﻿  test11.c
-C:\Users\c405-10\source\repos\new c4\new c4\test11.c(15,12): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
-  new c4.vcxproj -> C:\Users\c405-10\source\repos\new c4\x64\Debug\new c4.exe
